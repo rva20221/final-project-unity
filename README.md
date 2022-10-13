@@ -24,3 +24,10 @@ Downloadable :
 ## Link Potensi Model Bakteri 
 - https://sketchfab.com/3d-models/bacteria-02cfedcf438742d6bbf6472a1d220587
 - https://sketchfab.com/3d-models/herpes-bacteria-04c821416a6e43a19b49eace7ab5c1c6
+
+
+To Do List :: 
+
+- Mencari model yang bisa di download 
+- Skenario untuk di kembangkan
+- Implementasi skenario 
