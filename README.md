@@ -19,4 +19,5 @@ Siswa disuruh mengembalikan komponen cell ke dalam cell. dan siswa dapat mengkli
 - https://sketchfab.com/3d-models/plant-cell-90370b9c395b490993a05bfbaa9e15e2
 
 ## Link Potensi Model Bakteri 
-- https://sketchfab.com/3d-models/bacterial-cell-structure-42439edc90cd4d87b8ae322a4dcee8de
+- https://sketchfab.com/3d-models/bacteria-02cfedcf438742d6bbf6472a1d220587
+- https://sketchfab.com/3d-models/herpes-bacteria-04c821416a6e43a19b49eace7ab5c1c6
