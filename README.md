@@ -5,11 +5,11 @@
 - Menentukan Skenario VR
 - 
 
-#Opsi Skenario 1: 
+##Opsi Skenario 1: 
 Ada sebuah cell yang terserang oleh sebuah bakteri. Tetapi karena beberapa komponen cell ada yang menghilang dia tidak bisa bertahan melawan bakteri. Tugas kita adalah memasukan bagian-bagian cell yang menghilang ke dalam cell agar cell dapat mempertahankan diri terhadap serangan bakteri. 
 Akan terdapat >> HP , Energi , 
 
-#Opsi Skenario 2: 
+##Opsi Skenario 2: 
 Siswa disuruh mengembalikan komponen cell ke dalam cell. dan siswa dapat mengklik setiap komponen cell dan akan pop up fungsi dari cell tersebut. 
 
 ## Link Potensi Model Cell 
