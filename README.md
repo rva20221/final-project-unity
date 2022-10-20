@@ -21,6 +21,12 @@ Siswa disuruh mengembalikan komponen DNA ke dalam DNA. dan siswa dapat mengklik 
 Downloadable : 
 - https://sketchfab.com/3d-models/animal-cell-downloadable-ddc40bb0900544959f02d3ff83c32615
 
+## Link Potensi Model DNA
+- https://sketchfab.com/3d-models/dna-e5c43de9768840efb48402e9bab5823a
+- https://sketchfab.com/3d-models/dna-methylation-live-bbd48d23435c4254a618e3ff45e9bffa
+- https://sketchfab.com/3d-models/stylized-simply-visualization-of-dna-51f5ab2ffc364f60be00289eb6909535
+
+
 ## Link Potensi Model Bakteri 
 - https://sketchfab.com/3d-models/bacteria-02cfedcf438742d6bbf6472a1d220587
 - https://sketchfab.com/3d-models/herpes-bacteria-04c821416a6e43a19b49eace7ab5c1c6
