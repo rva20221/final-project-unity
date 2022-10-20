@@ -1,16 +1,16 @@
-# VR Project Cell
+# VR Project DNA
 
 ## 13 Oktober 2022
 - Menentukan 3D Model yang akan dipakai untuk membuat aplikasi
 - Menentukan Skenario VR
-- 
+
 
 ## Opsi Skenario 1: 
-Ada sebuah cell yang terserang oleh sebuah bakteri. Tetapi karena beberapa komponen cell ada yang menghilang dia tidak bisa bertahan melawan bakteri. Tugas kita adalah memasukan bagian-bagian cell yang menghilang ke dalam cell agar cell dapat mempertahankan diri terhadap serangan bakteri. 
+Ada sebuah DNA yang terserang oleh sebuah virus. Tetapi karena beberapa komponen DNA ada yang menghilang dia tidak bisa bertahan melawan virus. Tugas kita adalah mengembalikan bagian-bagian DNA yang menghilang agar DNA dapat mempertahankan diri terhadap serangan virus. 
 Akan terdapat >> HP , Energi , 
 
 ## Opsi Skenario 2: 
-Siswa disuruh mengembalikan komponen cell ke dalam cell. dan siswa dapat mengklik setiap komponen cell dan akan pop up fungsi dari cell tersebut. 
+Siswa disuruh mengembalikan komponen DNA ke dalam DNA. dan siswa dapat mengklik setiap komponen DNA dan akan pop up fungsi dari DNA tersebut. 
 
 ## Link Potensi Model Cell 
 - https://sketchfab.com/3d-models/eukaryotic-cell-b7d84e5f2d5e411fbb195ab2742f2256
@@ -26,7 +26,7 @@ Downloadable :
 - https://sketchfab.com/3d-models/herpes-bacteria-04c821416a6e43a19b49eace7ab5c1c6
 
 
-To Do List :: 
+To Do List :
 
 - Mencari model yang bisa di download 
 - Skenario untuk di kembangkan
